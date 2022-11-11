@@ -16,7 +16,7 @@ More informations on my website: **Coming soon**
 
 ## 📥 Contact / Profile
 <p align="center">
-	<a href="www.linkedin.com/in/mahelbrossier">
+	<a href="https://linkedin.com/in/mahelbrossier">
 		<img src="https://img.shields.io/badge/Linkedin-Mahel.Brossier-blue">
 	</a>
 	<span>&nbsp;</span>
