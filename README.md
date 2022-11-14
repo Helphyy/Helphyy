@@ -27,15 +27,20 @@ More informations on my website: **Coming soon**
 	<a href="mailto:mahelbrossier@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-Mahelbrossier%40gmail.com-red">
 	</a>
-  <span>&nbsp;</span>
+  	<span>&nbsp;</span>
 	<a href="https://www.root-me.org/Helphy">
 		<img src="https://img.shields.io/badge/Root--Me-Helphy-lightgrey">
 	</a>
-  <span>&nbsp;</span>
+	<span>&nbsp;</span>
+	<a href="https://app.hackthebox.com/profile/1280760">
+		<img src="https://img.shields.io/badge/Hack--The--Box-Helphy-lightgrey">
+	</a>
+ 	<span>&nbsp;</span>
 	<a href="https://www.reddit.com/user/Helphy_">
 		<img src="https://img.shields.io/badge/Reddit-Helphy__-red">
-  <span>&nbsp;</span>
-    <a href="https://discord.com/">
+	</a>
+ 	<span>&nbsp;</span>
+ 	<a href="https://discord.com/">
 		<img src="https://img.shields.io/badge/Discord-Helphy%230001-blue">
 	</a>
 </p>
