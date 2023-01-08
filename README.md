@@ -43,10 +43,4 @@ More informations on my website: **Coming soon**
  	<a href="https://discord.com/">
 		<img src="https://img.shields.io/badge/Discord-Helphy%230001-blue">
 	</a>
-</p>
-
-## 📂 Projects
-
-- **[Ansible_Docker_Lab *(2022)*]()**
-
-<br>
+</p
