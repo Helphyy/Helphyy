@@ -8,7 +8,7 @@
 
 ## 👋  About me 
 
-Hi! I'm a network and system administrator student at **2600** in France. My favorite fields are network systems, computer security, development, music, machine learning, and green computing. I currently work for Green-IT Solutions.
+Hi! I'm a network and system administrator student at **2600** in France. My favorite fields are network systems, computer security, development, music, machine learning, and green computing. I currently work for Green IT Solutions.
 
 More informations on my website: **Coming soon**
 
