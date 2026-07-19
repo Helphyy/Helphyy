@@ -10,34 +10,20 @@
     .dim  { fill: #8A8AB0; }
     .barTxt { fill: #000080; }
 
-    /* Etat initial : tout est masque, puis revele ligne par ligne */
-    .seq { opacity: 0; animation: reveal 0.01s steps(1) forwards; }
-    .l1 { animation-delay: 0.35s; }
-    .l2 { animation-delay: 0.70s; }
-    .l3 { animation-delay: 1.05s; }
-    .l4 { animation-delay: 1.40s; }
-    .l5 { animation-delay: 1.75s; }
-    .l6 { animation-delay: 2.10s; }
-    .l7 { animation-delay: 2.55s; }
-    .l8 { animation-delay: 2.90s; }
+    /* IMPORTANT : tout le contenu est visible par defaut.
+       GitHub affiche cette banniere via une balise img, et les navigateurs
+       brident les animations CSS des SVG charges ainsi : l'horloge se fige
+       apres quelques dixiemes de seconde. Toute revelation progressive basee
+       sur opacity:0 + animation-delay laisse donc l'ecran vide en pratique.
+       Aucune information ne doit dependre du deroulement d'une animation. */
+    .seq { opacity: 1; }
 
-    /* Les mentions de statut arrivent juste apres leur ligne */
-    .s1 { animation-delay: 0.55s; }
-    .s2 { animation-delay: 0.90s; }
-    .s3 { animation-delay: 1.25s; }
-    .s4 { animation-delay: 1.60s; }
-    .s5 { animation-delay: 1.95s; }
-    .s6 { animation-delay: 2.30s; }
-
-    @keyframes reveal { to { opacity: 1; } }
-
-    /* Curseur bloc clignotant, demarre apres le POST */
-    .cursor { fill: #FFB000; opacity: 0; animation: blink 1.06s steps(1) infinite 3.1s; }
+    /* Le curseur clignote, mais reste visible si l'animation est figee. */
+    .cursor { fill: #FFB000; opacity: 1; animation: blink 1.06s steps(1) infinite; }
     @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
 
-    /* Etat final complet si l'utilisateur limite les animations */
     @media (prefers-reduced-motion: reduce) {
-      .seq, .cursor { opacity: 1; animation: none; }
+      .cursor { animation: none; }
     }
   </style>
 
