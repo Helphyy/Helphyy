@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="127" height="36" viewBox="0 0 127 36" role="img" aria-label="LINKEDIN">
+  <title>LINKEDIN</title>
+  <defs>
+    <linearGradient id="e" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF3EA5"/>
+      <stop offset="55%" stop-color="#C061D8"/>
+      <stop offset="100%" stop-color="#78F0F0"/>
+    </linearGradient>
+    <linearGradient id="f" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#170F26"/>
+      <stop offset="100%" stop-color="#0A0714"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.7" y="0.7" width="125.6" height="34.6" rx="7" fill="url(#f)" stroke="url(#e)" stroke-width="1.4"/>
+  <image x="14" y="9.5" width="17" height="17" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAADb0lEQVR42u2av2oUURTGf/MnWTda5AEUAoJIKkXskiqWVkKwtBFB0NYnENL4ANoIgp2gBPMEEgIqaiNYCJrKLoKYZJPdnTk238hhMrs72X8zgVy4zO7Zc+8938z5zjn3zgZmxkluYUlZXVqQF8QFSikwq2vdbnb7CCLnQqGMntHnEEiKUE+5GRDJFoCObEo9gECKDaAppFZD92kAe7IvACx2KLNrG+gW3PnA8SOtAKDleGB5wsbuSQQF/hcAB+pBBWQPHIi4H4mLyNMSN65L9lm+2Kya7GFJ5t8CtoAN9S3J2lWHXR+FYrE9i0YRsC9DXxW4lQGrwGtgzkWJSd/wVGt1+wHwpN4ErsllMpfryqU+AUs5/5wqgHCA61wFFnIkDxyQBem0S/Jp6hw4kbWQLye+ANvObUy9K9m2dGadrBYATL8dAmv6PuNcaEayNemEdXsCiChNYB24LcLuqH+SbF06x4lAgau1Qpckxx5G84ksUjRCAJJcIkt7GOuzduLKkERz+kwf9ZnrWGE0P8FZXfd6fEdgip5iVz0RVy4oep0XhzrAD+C3ypRZ2ZGWAYCZZT02s4aZNXVtmNmMmc2b2Y6ZtczsUL0l2bzGZTr76ru6PtXc82Z218w+anzHzFIzS/T5wMzemdmqmc1pXW9HI2dbnNldNnafE3H78adIJwEuAs+B5R4uFqkvqb8AHugOh4NqrbLRIykhSwpK30si+rJ+twHlcge4Azx2+kEViSxbdAVYdIQNXC4pGhNL9x5wxW1cKs3Ellsn6GNU4ALCzTLhdRoAvMG/gPfAB+DnAJtuKCIlVQLIXOUPcB+4LMNW5CKPCgzMwC4KQGVPIDO+BTwEnomkHUWYQ+AJ8Cann7UzZcr0cAruswm8VPLz7pQd32z0OrSqupzODHrr7rDlKt5AXBh6NzfpJ5ACXxUee7lCVOcNTZacrAe4EPg+yl5i0gA6wLcBJcHfUfbT08gDg86Nau1Cxwm3p5v6UwCnACYIICohi0qOG3b+wlZ2S7lbsGlvDaEzyvxDH6v0OnHIL1JGp1crO3boY5W0hAumI7hp2bFHAMRj5EpYRTDxA7uuDK7j63u/t+7mSexPCxrjSPET2l80VCD+tzn/ojs7hc7CWJ1edKeuPD/yojvfTuRfDag5ByiKkOG4y9tp7y3+ATXwpICd6VKMAAAAAElFTkSuQmCC"/>
+  <text x="40" y="22.4" font-family="DejaVu Sans Mono, Liberation Mono, Consolas, monospace" font-size="12.5" letter-spacing="1.6" fill="#EAF7FF">LINKEDIN</text>
+</svg>
