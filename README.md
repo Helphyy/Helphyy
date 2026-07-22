@@ -26,6 +26,7 @@
 | Project | Description |
 | :-- | :-- |
 | **[pvecli](https://github.com/Helphyy/pvecli)** | A modern, interactive CLI for managing Proxmox VE clusters |
+| **[SDF](https://github.com/Helphyy/sdf)** | A terminal editor with markdown & PDF test live preview |
 | **[claudock](https://github.com/Helphyy/claudock)** | Secure containerized wrapper for Claude Code: persistent containers, multi-profile auth, layered images |
 | **[claudock-images](https://github.com/Helphyy/claudock-images)** | Turnkey Docker image to run Claude Code in a secure containerized environment |
 | **[Simple-SSO](https://github.com/Helphyy/Simple-SSO)** | The simplest self-hosted OIDC SSO: one `docker compose up`, SQLite, zero external deps |
